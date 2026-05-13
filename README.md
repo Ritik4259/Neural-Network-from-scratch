@@ -86,9 +86,9 @@ This project demonstrates the implementation of:
 ```plaintext
 Neural-Network-from-scratch/
 │
-├── backprop.py
-├── complete_nn.py
-├── weight_and_bias.py
+├── backprop.ipynb
+├── complete_nn.ipynb
+├── weight_and_bias.ipynb
 ├── README.md
 ```
 
@@ -145,9 +145,7 @@ pip install numpy matplotlib nnfs
 
 Run:
 
-```bash
-python complete_nn.py
-```
+Open using VS code, colab or Jupyter notebook and run the cells
 
 ---
 
